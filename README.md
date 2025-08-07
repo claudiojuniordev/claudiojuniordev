@@ -1,6 +1,6 @@
 # 🧑‍💻 Claudio Junior
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
 ### About me
 
