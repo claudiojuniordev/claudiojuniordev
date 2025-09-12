@@ -37,7 +37,7 @@
 
 ### 🗂️ Projects
 [![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-24292F?style=flat&logo=github&logoColor=white)](https://github.com/claudiojuniordev/portfolio)
-[![Dark-light-theme-switch](https://img.shields.io/badge/-Portf%C3%B3lio-24292F?style=flat&logo=github&logoColor=white)](https://github.com/claudiojuniordev/dark-light-theme-switch)
+[![Dark_Light_Theme](https://img.shields.io/badge/-Portf%C3%B3lio-24292F?style=flat&logo=github&logoColor=white)](https://github.com/claudiojuniordev/dark-light-theme-switch)
 -
 ### 📞 Contact
 
