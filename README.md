@@ -23,6 +23,7 @@
 <img align="left" title="Docker" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 <img align="left" title="VIsual Studio Code" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />       
 <img align="left" title="WordPress" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+<img align="left" title="Java" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 <br/><br/>
 -
@@ -37,7 +38,7 @@
 
 ### 🗂️ Projects
 [![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-24292F?style=flat&logo=github&logoColor=white)](https://github.com/claudiojuniordev/portfolio)
-[![Dark_Light_Theme](https://img.shields.io/badge/-Portf%C3%B3lio-24292F?style=flat&logo=github&logoColor=white)](https://github.com/claudiojuniordev/dark-light-theme-switch)
+[![Auth-Python](https://img.shields.io/badge/-Portf%C3%B3lio-24292F?style=flat&logo=github&logoColor=white)]([https://github.com/claudiojuniordev/dark-light-theme-switch](https://github.com/claudiojuniordev/auth-python-sqlite)
 -
 ### 📞 Contact
 
