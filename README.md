@@ -76,7 +76,7 @@ Sigo direcionando meus estudos para o desenvolvimento de software e para a evolu
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio_Online-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://claudiojuniordev.github.io/portfolio/)
-
+&nbsp;
 [![Landing Page](https://img.shields.io/badge/Landing_Page-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claudiojuniordev/landing_page)
 
 </div>
@@ -88,9 +88,9 @@ Sigo direcionando meus estudos para o desenvolvimento de software e para a evolu
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiocjr/)
-
+&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541996236741)
-
+&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudiojuniorofficial@gmail.com)
 
 </div>
