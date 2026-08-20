@@ -53,7 +53,7 @@ Comecei como designer gráfico antes de migrar para o código
 
 ## ⚙️ Foco em Automação
 
-Tenho interesse especial em eliminar tarefas repetitivas através de scripts, integrações e pipelines automatizados — de rotinas em Python/PowerShell/Bash a workflows no GitHub Actions e Power Automate, passando por integrações via API REST e análise de dados com Pandas.
+Tenho interesse especial em eliminar tarefas repetitivas através de scripts, integrações e pipelines automatizados: de rotinas em Python/PowerShell/Bash a workflows no GitHub Actions e Power Automate, passando por integrações via API REST e análise de dados com Pandas.
 
 <div align="center">
 
