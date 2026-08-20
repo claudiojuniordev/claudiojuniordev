@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:22d3ee&height=210&section=header&text=Claudio%20Junior&fontSize=56&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20%7C%20Automation%20Engineer&descAlignY=58&descSize=18&descColor=e2e8f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:22d3ee&height=210&section=header&text=Claudio%20Junior&fontSize=56&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Automation%20Developer&descAlignY=58&descSize=18&descColor=e2e8f0" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=%24+whoami;Claudio+Junior+%E2%80%94+Automation+%26+Software+Developer;Transformando+tarefas+repetitivas+em+c%C3%B3digo;Python+%7C+PowerShell+%7C+GitHub+Actions+%7C+Cloud" alt="Typing SVG" />
 
