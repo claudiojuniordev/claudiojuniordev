@@ -20,7 +20,7 @@ Olá, me chamo Claudio Junior e tenho 22 anos.
 
 Desde cedo, sempre fui curioso sobre tecnologia, design e soluções digitais, buscando entender como as coisas funcionavam e eram construídas. Essa curiosidade me levou a iniciar trabalhos freelance como designer gráfico, desenvolvendo artes e identidades visuais para diferentes clientes.
 
-Com o tempo, trabalhando com design, surgiu também o interesse em compreender como sites eram criados e personalizados, o que acabou me aproximando da programação e do desenvolvimento web. Desde então, venho estudando, praticando e desenvolvendo projetos para aprimorar continuamente meus conhecimentos na área — com um interesse particular em **automatizar processos** e eliminar trabalho repetitivo através de código.
+Com o tempo, trabalhando com design, surgiu também o interesse em compreender como sites eram criados e personalizados, o que acabou me aproximando da programação e do desenvolvimento web. Desde então, venho estudando, praticando e desenvolvendo projetos para aprimorar continuamente meus conhecimentos na área, com um interesse particular em **automatizar processos** e eliminar trabalho repetitivo através de código.
 
 Atualmente, atuo na **Solo Network**, empresa parceira da Microsoft especializada em soluções tecnológicas para organizações, trabalhando como suporte técnico nas áreas de Dados, IA e DevOps.
 
