@@ -103,30 +103,35 @@ Tenho interesse especial em eliminar tarefas repetitivas através de scripts, in
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Streak de Contribuições
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=claudiojuniordev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiojuniordev&layout=compact&langs_count=8&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0"/>
-
 <img src="https://streak-stats.demolab.com?user=claudiojuniordev&hide_border=true&background=0F172A&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&border=1E293B"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=claudiojuniordev&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
 
 </div>
 
 ---
 
-## 📈 Dashboard Automatizado
+## 🔁 Pipeline de Automação
 
-<div align="center">
-<sub>Gerado automaticamente todo dia via <a href="https://github.com/claudiojuniordev/claudiojuniordev/actions/workflows/metrics.yml">GitHub Actions</a> (lowlighter/metrics) — direto no repositório, sem depender de um servidor externo ao vivo.</sub>
-<br/><br/>
+Um fluxo simplificado de como costumo estruturar automações: do gatilho até o resultado final.
 
-<img src="https://raw.githubusercontent.com/claudiojuniordev/claudiojuniordev/main/github-metrics.svg" width="100%"/>
+```mermaid
+flowchart LR
+    A["⏰ Gatilho<br/>Cron / Webhook / Evento"] --> B["🐍 Script<br/>Python · PowerShell · Bash"]
+    B --> C["🔗 Integração<br/>API REST"]
+    C --> D["⚙️ Orquestração<br/>GitHub Actions · Power Automate"]
+    D --> E["☁️ Cloud<br/>Azure · AWS"]
+    E --> F["✅ Resultado<br/>Dados tratados · Notificação"]
 
-</div>
+    style A fill:#4f46e5,stroke:#22d3ee,color:#ffffff
+    style B fill:#7c3aed,stroke:#22d3ee,color:#ffffff
+    style C fill:#4f46e5,stroke:#22d3ee,color:#ffffff
+    style D fill:#7c3aed,stroke:#22d3ee,color:#ffffff
+    style E fill:#4f46e5,stroke:#22d3ee,color:#ffffff
+    style F fill:#22d3ee,stroke:#0f172a,color:#0f172a
+```
 
 ---
 
