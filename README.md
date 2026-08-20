@@ -1,20 +1,18 @@
 <div align="center">
 
-# Claudio Junior
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:22d3ee&height=210&section=header&text=Claudio%20Junior&fontSize=56&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20%7C%20Automation%20Engineer&descAlignY=58&descSize=18&descColor=e2e8f0" width="100%"/>
 
-### Software Developer
-
-<p>
-Desenvolvedor focado em tecnologia, automação, desenvolvimento web e soluções digitais.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=%24+whoami;Claudio+Junior+%E2%80%94+Automation+%26+Software+Developer;Transformando+tarefas+repetitivas+em+c%C3%B3digo;Python+%7C+PowerShell+%7C+GitHub+Actions+%7C+Cloud" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiocjr/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://claudiojuniordev.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://claudiojuniordev.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudiojuniorofficial@gmail.com)
+
+![Perfil Visitado](https://komarev.com/ghpvc/?username=claudiojuniordev&style=for-the-badge&color=7c3aed&label=Perfil+Visitado)
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 Sobre Mim
 
@@ -22,13 +20,55 @@ Olá, me chamo Claudio Junior e tenho 22 anos.
 
 Desde cedo, sempre fui curioso sobre tecnologia, design e soluções digitais, buscando entender como as coisas funcionavam e eram construídas. Essa curiosidade me levou a iniciar trabalhos freelance como designer gráfico, desenvolvendo artes e identidades visuais para diferentes clientes.
 
-Com o tempo, trabalhando com design, surgiu também o interesse em compreender como sites eram criados e personalizados, o que acabou me aproximando da programação e do desenvolvimento web. Desde então, venho estudando, praticando e desenvolvendo projetos para aprimorar continuamente meus conhecimentos na área.
+Com o tempo, trabalhando com design, surgiu também o interesse em compreender como sites eram criados e personalizados, o que acabou me aproximando da programação e do desenvolvimento web. Desde então, venho estudando, praticando e desenvolvendo projetos para aprimorar continuamente meus conhecimentos na área — com um interesse particular em **automatizar processos** e eliminar trabalho repetitivo através de código.
 
-Atualmente, atuo na Solo Network, empresa parceira da Microsoft especializada em soluções tecnológicas para organizações, trabalhando como suporte técnico nas áreas de Dados, IA e DevOps.
-
-Sigo direcionando meus estudos para o desenvolvimento de software e para a evolução das minhas competências técnicas, buscando crescer profissionalmente como desenvolvedor e ampliar cada vez mais minha experiência no setor.
+Atualmente, atuo na **Solo Network**, empresa parceira da Microsoft especializada em soluções tecnológicas para organizações, trabalhando como suporte técnico nas áreas de Dados, IA e DevOps.
 
 > 🚀 Em busca de novos desafios, aprendizado contínuo e evolução constante na área de tecnologia.
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**🔭 No momento**
+Automatizando fluxos e dando suporte técnico em Dados, IA e DevOps na Solo Network
+
+**🌱 Aprofundando**
+Python, Cloud (Azure/AWS) e IA aplicada a automações de processos
+
+</td>
+<td valign="top" width="50%">
+
+**💬 Fale comigo sobre**
+Automação de processos, Python, desenvolvimento web ou oportunidades
+
+**⚡ Fato curioso**
+Comecei como designer gráfico antes de migrar para o código
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Foco em Automação
+
+Tenho interesse especial em eliminar tarefas repetitivas através de scripts, integrações e pipelines automatizados — de rotinas em Python/PowerShell a workflows no GitHub Actions, passando por integrações via API e ferramentas low-code.
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-4f46e5?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-7c3aed?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4f46e5?style=for-the-badge&logo=gnubash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-7c3aed?style=for-the-badge&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-4f46e5?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-7c3aed?style=for-the-badge&logo=zapier&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-4f46e5?style=for-the-badge&logo=selenium&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-7c3aed?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-4f46e5?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-7c3aed?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+</div>
 
 ---
 
@@ -41,6 +81,8 @@ Sigo direcionando meus estudos para o desenvolvimento de software e para a evolu
 <img title="JavaScript" alt="JavaScript" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img title="HTML5" alt="HTML5" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img title="CSS3" alt="CSS3" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img title="PowerShell" alt="PowerShell" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg"/>
+<img title="Bash" alt="Bash" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img title="Git" alt="Git" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img title="GitHub" alt="GitHub" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img title="Linux" alt="Linux" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
@@ -50,9 +92,11 @@ Sigo direcionando meus estudos para o desenvolvimento de software e para a evolu
 <img title="AWS" alt="AWS" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img title="VS Code" alt="VS Code" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img title="WordPress" alt="WordPress" width="42px" src="https://cdn.simpleicons.org/wordpress/white"/>
-
-<img title="OpenAI" alt="OpenAI" width="42px" style="filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg"/>
+<img title="n8n" alt="n8n" width="42px" src="https://cdn.simpleicons.org/n8n/white"/>
+<img title="Zapier" alt="Zapier" width="42px" src="https://cdn.simpleicons.org/zapier/white"/>
+<img title="OpenAI" alt="OpenAI" width="42px" src="https://cdn.simpleicons.org/openai/white"/>
 <img title="Anthropic Claude" alt="Anthropic Claude" width="42px" src="https://cdn.simpleicons.org/anthropic/white"/>
+
 </div>
 
 ---
@@ -61,11 +105,28 @@ Sigo direcionando meus estudos para o desenvolvimento de software e para a evolu
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=claudiojuniordev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=claudiojuniordev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claudiojuniordev&layout=compact&langs_count=8&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0"/>
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claudiojuniordev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=claudiojuniordev&hide_border=true&background=0F172A&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&border=1E293B"/>
 
-<img height="165em" src="https://streak-stats.demolab.com?user=claudiojuniordev&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=claudiojuniordev&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
+
+</div>
+
+---
+
+## 🐍 Automação em Ação
+
+<div align="center">
+<sub>Grafo de contribuições animado automaticamente todo dia via <a href="https://github.com/claudiojuniordev/claudiojuniordev/actions/workflows/snake.yml">GitHub Actions</a> — a própria automação virou parte do meu perfil.</sub>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claudiojuniordev/claudiojuniordev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/claudiojuniordev/claudiojuniordev/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/claudiojuniordev/claudiojuniordev/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -75,7 +136,7 @@ Sigo direcionando meus estudos para o desenvolvimento de software e para a evolu
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio_Online-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://claudiojuniordev.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio_Online-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://claudiojuniordev.github.io/portfolio/)
 &nbsp;
 [![Landing Page](https://img.shields.io/badge/Landing_Page-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claudiojuniordev/landing_page)
 
@@ -95,10 +156,8 @@ Sigo direcionando meus estudos para o desenvolvimento de software e para a evolu
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:22d3ee&height=100&section=footer" width="100%"/>
 
 <div align="center">
-
-<sub>Icons by Devicon — https://devicon.dev/</sub>
-
+<sub>Icons by Devicon & Simple Icons</sub>
 </div>
