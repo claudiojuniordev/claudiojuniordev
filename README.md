@@ -80,24 +80,24 @@ Tenho interesse especial em eliminar tarefas repetitivas através de scripts, in
 <div align="center">
 
 <img title="Python" alt="Python" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img title="Java" alt="Java" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img title="JavaScript" alt="JavaScript" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img title="HTML5" alt="HTML5" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img title="CSS3" alt="CSS3" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img title="PowerShell" alt="PowerShell" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg"/>
 <img title="Bash" alt="Bash" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img title="Git" alt="Git" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img title="GitHub" alt="GitHub" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img title="Linux" alt="Linux" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img title="Git" alt="Git" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img title="GitLab" alt="GitLab" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
 <img title="Docker" alt="Docker" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
-<img title="Pandas" alt="Pandas" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-<img title="MySQL" alt="MySQL" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img title="Banco de Dados" alt="Banco de Dados" width="42px" style="filter: invert(1);" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/svgs/solid/database.svg"/>
 <img title="Azure" alt="Azure" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 <img title="AWS" alt="AWS" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img title="VS Code" alt="VS Code" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img title="Cursor" alt="Cursor" width="42px" src="https://cdn.simpleicons.org/cursor/white"/>
 <img title="OpenAI" alt="OpenAI" width="42px" src="https://cdn.simpleicons.org/openai/white"/>
 <img title="Anthropic Claude" alt="Anthropic Claude" width="42px" src="https://cdn.simpleicons.org/anthropic/white"/>
+<img title="Google Gemini" alt="Google Gemini" width="42px" src="https://cdn.simpleicons.org/googlegemini/white"/>
+<img title="GitHub Copilot" alt="GitHub Copilot" width="42px" src="https://cdn.simpleicons.org/githubcopilot/white"/>
 
 </div>
 
