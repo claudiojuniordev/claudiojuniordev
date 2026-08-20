@@ -53,20 +53,23 @@ Comecei como designer gráfico antes de migrar para o código
 
 ## ⚙️ Foco em Automação
 
-Tenho interesse especial em eliminar tarefas repetitivas através de scripts, integrações e pipelines automatizados — de rotinas em Python/PowerShell a workflows no GitHub Actions, passando por integrações via API e ferramentas low-code.
+Tenho interesse especial em eliminar tarefas repetitivas através de scripts, integrações e pipelines automatizados — de rotinas em Python/PowerShell/Bash a workflows no GitHub Actions e Power Automate, passando por integrações via API REST e análise de dados com Pandas.
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-4f46e5?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-7c3aed?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4f46e5?style=for-the-badge&logo=gnubash&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-7c3aed?style=for-the-badge&logo=githubactions&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-4f46e5?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-7c3aed?style=for-the-badge&logo=zapier&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-4f46e5?style=for-the-badge&logo=selenium&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7c3aed?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-4f46e5?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-7c3aed?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-7c3aed?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-4f46e5?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-7c3aed?style=for-the-badge&logo=gitlab&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-4f46e5?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-7c3aed?style=for-the-badge&logo=pandas&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-4f46e5?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-7c3aed?style=for-the-badge&logo=selenium&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4f46e5?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-7c3aed?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-4f46e5?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
 
@@ -86,14 +89,13 @@ Tenho interesse especial em eliminar tarefas repetitivas através de scripts, in
 <img title="Git" alt="Git" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img title="GitHub" alt="GitHub" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img title="Linux" alt="Linux" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img title="GitLab" alt="GitLab" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
 <img title="Docker" alt="Docker" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+<img title="Pandas" alt="Pandas" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img title="MySQL" alt="MySQL" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img title="Azure" alt="Azure" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 <img title="AWS" alt="AWS" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img title="VS Code" alt="VS Code" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img title="WordPress" alt="WordPress" width="42px" src="https://cdn.simpleicons.org/wordpress/white"/>
-<img title="n8n" alt="n8n" width="42px" src="https://cdn.simpleicons.org/n8n/white"/>
-<img title="Zapier" alt="Zapier" width="42px" src="https://cdn.simpleicons.org/zapier/white"/>
 <img title="OpenAI" alt="OpenAI" width="42px" src="https://cdn.simpleicons.org/openai/white"/>
 <img title="Anthropic Claude" alt="Anthropic Claude" width="42px" src="https://cdn.simpleicons.org/anthropic/white"/>
 
